@@ -21,7 +21,7 @@ package params
 var MainnetBootnodes = []string{
 
 	// Tcoin
-	"enode://27b1f65e02dc0e5fe5b90b62fbb2d9300f69ab73e4ff2a172b9f40f985734d43@70.49.88.93:30303", // IE
+	"enode://40703c1469b0b4ede61753d66f88d1e7a45849b71a18a07207bf9fa02ee7f7677b6dae5edb2fc50eefdc23c2e80ddf4791af6aa86c273dd971b20fa045fe7133@70.49.88.93:30301", // IE
 
 }
 
