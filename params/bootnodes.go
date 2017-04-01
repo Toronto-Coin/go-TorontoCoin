@@ -22,7 +22,7 @@ var MainnetBootnodes = []string{
 
 	// Tcoin
 	"enode://40703c1469b0b4ede61753d66f88d1e7a45849b71a18a07207bf9fa02ee7f7677b6dae5edb2fc50eefdc23c2e80ddf4791af6aa86c273dd971b20fa045fe7133@70.49.88.93:30301", // IE
-
+	"enode://2c07d8755690f92c6bc1f4c60cd1fbb12543e02e7d270ea3148350c375c254617482bacc66a73862d4ca58b6c54b05c3804b9f99a582d5acf32f5db9d8e2dd57@54.245.184.155:30301",
 }
 
 // TestnetBootnodes are the enode URLs of the P2P bootstrap nodes running on the
